@@ -1,4 +1,4 @@
-# Cloudera Toronto Hands-on Experience, Data Lifecycle 
+# Cloudera California Hands-on Experience, Data Lifecycle 
 
 ## Environment Access:
 
